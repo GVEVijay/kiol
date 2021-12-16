@@ -1,0 +1,159 @@
+#project
+{
+    font-family: century gothic;
+    color: #393E46;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.container
+{
+    text-decoration: none;
+    font-family: century gothic;
+    color :black;
+    background-color:#FF9292;
+    box-shadow: black 6px 6px 20px;
+    padding: 8px;
+    width: 200px;
+   
+}
+
+.container1
+{
+    text-decoration: none;
+    font-family: century gothic;
+    color :black;
+    background-color:#FFB4B4;
+    box-shadow: black 6px 6px 20px;
+    padding: 8px;
+    width: 200px;
+    
+}
+
+.container2
+{
+    text-decoration: none;
+    font-family: century gothic;
+    color :black;
+    background-color: #FFDCDC;
+    box-shadow: black 6px 6px 20px;
+    padding: 8px;
+    width: 200px;
+    
+}
+.container3
+{
+    text-decoration: none;
+    font-family: century gothic;
+    color :black;
+    background-color: #FFE8E8;
+    box-shadow: black 6px 6px 20px;
+    padding: 8px;
+    width: 200px;
+    
+}
+
+.container4
+{
+    text-decoration: none;
+    font-family: century gothic;
+    color :black;
+    background-color: #F4DFD0;
+    box-shadow: black 6px 6px 20px;
+    padding: 8px;
+    width: 200px;
+    
+}
+
+.container5
+{
+    text-decoration: none;
+    font-family: century gothic;
+    color :black;
+    background-color: #DAD0C2;
+    box-shadow: black 6px 6px 20px;
+    padding: 8px;
+    width: 200px;
+    
+}
+
+.container6
+{
+    text-decoration: none;
+    font-family: century gothic;
+    color :black;
+    background-color: #CDBBA7 ;
+    box-shadow: black 6px 6px 20px;
+    padding: 8px;
+    width: 200px;
+    
+}
+
+.container:hover
+{
+   position: relative;
+   top: -6px;
+   left: -6px;
+   
+}
+
+.container1:hover
+{
+   position: relative;
+   top: -6px;
+   left: -6px;
+   
+}
+
+.container2:hover
+{
+   position: relative;
+   top: -6px;
+   left: -6px;
+   
+}
+
+.container3:hover
+{
+   position: relative;
+   top: -6px;
+   left: -6px;
+   
+}
+
+.container4:hover
+{
+   position: relative;
+   top: -6px;
+   left: -6px;
+   
+}
+
+.container5:hover
+{
+   position: relative;
+   top: -6px;
+   left: -6px;
+   
+}
+
+.container6:hover
+{
+   position: relative;
+   top: -6px;
+   left: -6px;
+  
+   
+}
+
+frame{
+    display: inline-block;
+}
+
+#h
+{
+    position: absolute;
+    top: 100px;
+    left: 350px;
+}
+
